@@ -9,7 +9,7 @@ This example has three prerequisites:
 Use the `build.sh` script to build this example and start the local webserver.
 On Windows, use git bash.
 
-The code and scripts in this example is based on a combination of the two
+The code and scripts in this example are based on a combination of the two
 official minimal examples [without-a-bundler][1] and
 [without-a-bundler-no-modules][2].
 
