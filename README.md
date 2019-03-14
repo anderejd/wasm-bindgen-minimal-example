@@ -16,8 +16,7 @@ official minimal examples [without-a-bundler][1] and
 Motivation
 ----------
 
-A burning desire for a pure Rust client-side web development environment. No
-python, no nodejs, please 💖
+This is just me studying the Rust + WASM tools and trying to figure out if they can be used without NPM, it seems so?
 
 [1]: https://github.com/rustwasm/wasm-bindgen/tree/master/examples/without-a-bundler
 [2]: https://github.com/rustwasm/wasm-bindgen/tree/master/examples/without-a-bundler-no-modules
