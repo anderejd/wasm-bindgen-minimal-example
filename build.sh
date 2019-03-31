@@ -7,7 +7,7 @@ mkdir -p html/wasm
 wasm-bindgen \
 	target/wasm32-unknown-unknown/release/wasm_bindgen_minimal_example.wasm \
 	--out-dir html/wasm \
-	--no-modules
+	--target web
 
 basic-http-server html
 
